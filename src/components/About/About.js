@@ -6,9 +6,13 @@ import './About.css';
 import { useTranslation } from 'react-i18next';
 
 const images = [
-  '/img/about1.jpg',
-  '/img/about2.jpg',
-  '/img/about3.jpg'
+  process.env.PUBLIC_URL + '/img/about1.jpg',
+  process.env.PUBLIC_URL + '/img/about2.jpg',
+  process.env.PUBLIC_URL + '/img/about3.jpg'
+  
+  // '/img/about1.jpg',
+  // '/img/about2.jpg',
+  // '/img/about3.jpg'
 ];
 
 const About = () => {

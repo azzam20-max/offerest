@@ -11,12 +11,12 @@ import 'swiper/css/autoplay';
 import { Autoplay } from 'swiper/modules';
 
 const clients = [
-  { name: 'PT Astra', logo: '/img/logo-astra-internasional.jpg' },
-  { name: 'Yamaha Motor', logo: '/img/yamaha.jpeg' },
-  { name: 'Panasonic', logo: '/img/panasonic.jpg' },
-  { name: 'Hitachi', logo: '/img/hitachi.jpg' },
-  { name: 'Sony', logo: '/img/sony.png' },
-  { name: 'Toyota', logo: '/img/toyota.png' }
+  { name: 'PT Astra', logo: process.env.PUBLIC_URL + '/img/logo-astra-internasional.jpg' },
+  { name: 'Yamaha Motor', logo: process.env.PUBLIC_URL + '/img/yamaha.jpeg' },
+  { name: 'Panasonic', logo: process.env.PUBLIC_URL + '/img/panasonic.jpg' },
+  { name: 'Hitachi', logo: process.env.PUBLIC_URL + '/img/hitachi.jpg' },
+  { name: 'Sony', logo: process.env.PUBLIC_URL + '/img/sony.png' },
+  { name: 'Toyota', logo: process.env.PUBLIC_URL + '/img/toyota.png' }
 ];
 
 
