@@ -1,0 +1,42 @@
+{
+  "hero_header" : "High Precision, Maximum Results",
+  "hero_p" : "CNC manufacturing solutions for modern industry — reliable, fast and precise.",
+  "hero_button" : "View Our Services",
+  
+  "about_title": "About Us",
+  "about_p1": "We are a CNC manufacturing company committed to high precision, quality, and innovation. With over a decade of experience, we have served industries ranging from automotive, medical, to high-tech.",
+  "about_p2": "Powered by modern machines and a team of expert technicians, we are ready to help you realize complex mechanical components with the best accuracy.",
+  
+  "services_title" : "Our Services",
+  "services": [
+    {
+      "title": "CNC Milling",
+      "description": "High precision for complex components with tight tolerances.",
+      "icon": "🛠️"
+    },
+    {
+      "title": "CNC Turning",
+      "description": "Production of cylindrical parts with speed and accuracy.",
+      "icon": "⚙️"
+    },
+    {
+      "title": "Custom Fabrication",
+      "description": "Custom manufacturing services tailored to your specific needs.",
+      "icon": "🔧"
+    }
+  ],
+
+  "client_title" : "Our Client",
+  "client_p" : "Large companies that have trusted our services.",
+
+  "navbar_tentang" : "About",
+  "navbar_layanan" : "Services",
+  "navbar_kontak" : "Contact",
+
+  "footer_header" : "Offerest",
+  "footer_p" : "Precision manufacturing solutions for your industrial needs.",
+
+  "footer_tentang" : "About",
+  "footer_layanan" : "Services",
+  "footer_kontak" : "Contact"
+}

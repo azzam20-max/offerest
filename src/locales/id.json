@@ -1,0 +1,42 @@
+{
+  "hero_header" : "Presisi Tinggi, Hasil Maksimal",
+  "hero_p" : "Solusi manufaktur CNC untuk industri modern — andal, cepat, dan presisi.",
+  "hero_button" : "Lihat Layanan Kami",
+
+  "about_title": "Tentang Kami",
+  "about_p1": "Kami adalah perusahaan manufaktur CNC yang berkomitmen pada presisi tinggi,kualitas, dan inovasi. Dengan pengalaman lebih dari satu dekade, kami telah melayani berbagai industri mulai dari otomotif, medis, hingga teknologi tinggi.",
+  "about_p2": "Ditenagai oleh mesin-mesin modern dan tim teknisi ahli, kami siap membantu Anda mewujudkan komponen mekanis yang kompleks dengan akurasi terbaik.",
+  
+  "services_title" : "Layanan Kami",
+  "services": [
+    {
+      "title": "CNC Milling",
+      "description": "Presisi tinggi untuk komponen kompleks dengan toleransi ketat.",
+      "icon": "🛠️"
+    },
+    {
+      "title": "CNC Turning",
+      "description": "Pembuatan bagian berbentuk silinder dengan kecepatan dan akurasi.",
+      "icon": "⚙️"
+    },
+    {
+      "title": "Custom Fabrication",
+      "description": "Layanan manufaktur khusus sesuai kebutuhan spesifik Anda.",
+      "icon": "🔧"
+    }
+  ],
+
+  "client_title" : "Klien Kami",
+  "client_p" : "Perusahaan-perusahaan besar yang telah mempercayai layanan kami.",
+
+  "navbar_tentang" : "Tentang",
+  "navbar_layanan" : "Layanan",
+  "navbar_kontak" : "Kontak",
+
+  "footer_header" : "Offerest",
+  "footer_p" : "Solusi manufaktur presisi untuk kebutuhan industri Anda.",
+  "footer_tentang" : "Tentang",
+  "footer_layanan" : "Layanan",
+  "footer_kontak" : "Kontak"
+
+}

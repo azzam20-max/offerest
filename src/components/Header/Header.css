@@ -1,0 +1,25 @@
+.top-header {
+  background-color: #181C14;
+  color: #ECDFCC;
+  padding: 0.5rem 1rem;
+  font-size: 14px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left .brand {
+  font-weight: bold;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
