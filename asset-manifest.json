@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/azzam20-max/offerest.git/static/css/main.1f49c29b.css",
+    "main.js": "/azzam20-max/offerest.git/static/js/main.5a42e668.js",
+    "static/js/453.0b949a8a.chunk.js": "/azzam20-max/offerest.git/static/js/453.0b949a8a.chunk.js",
+    "static/media/cnc-machine-tool-milling-automotive-parts.jpeg": "/azzam20-max/offerest.git/static/media/cnc-machine-tool-milling-automotive-parts.e2ed0be91ac16f327641.jpeg",
+    "index.html": "/azzam20-max/offerest.git/index.html",
+    "main.1f49c29b.css.map": "/azzam20-max/offerest.git/static/css/main.1f49c29b.css.map",
+    "main.5a42e668.js.map": "/azzam20-max/offerest.git/static/js/main.5a42e668.js.map",
+    "453.0b949a8a.chunk.js.map": "/azzam20-max/offerest.git/static/js/453.0b949a8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f49c29b.css",
+    "static/js/main.5a42e668.js"
+  ]
+}
