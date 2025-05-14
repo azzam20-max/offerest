@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/offerest/static/css/main.30f30145.css",
-    "main.js": "/offerest/static/js/main.67d320a4.js",
+    "main.js": "/offerest/static/js/main.0deeda8a.js",
     "static/js/453.0b949a8a.chunk.js": "/offerest/static/js/453.0b949a8a.chunk.js",
     "static/media/cnc-machine-tool-milling-automotive-parts.jpeg": "/offerest/static/media/cnc-machine-tool-milling-automotive-parts.e2ed0be91ac16f327641.jpeg",
     "index.html": "/offerest/index.html",
     "main.30f30145.css.map": "/offerest/static/css/main.30f30145.css.map",
-    "main.67d320a4.js.map": "/offerest/static/js/main.67d320a4.js.map",
+    "main.0deeda8a.js.map": "/offerest/static/js/main.0deeda8a.js.map",
     "453.0b949a8a.chunk.js.map": "/offerest/static/js/453.0b949a8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30f30145.css",
-    "static/js/main.67d320a4.js"
+    "static/js/main.0deeda8a.js"
   ]
 }
